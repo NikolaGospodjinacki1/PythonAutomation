@@ -1,0 +1,1 @@
+sampe for sending text over email in python
